@@ -49,7 +49,7 @@
         {
             "task_id": 10136,
             "task_name": "EWO - Face detection tiền chụp ảnh",
-            "description": "<font face=\"Arial\">* Phát triển tính năng detect khuông mặt tiền chụp ảnh</font><p><font face=\"Arial\">- Phát hiện khuông mặt, vẽ khung phát hiện khuông mặt khi camera preview</font></p><p><font face=\"Arial\">- Tạo option kiểm tra khuông mặt hợp lệ ví dụ:</font></p><p><font face=\"Arial\">* Có khuông mặt</font></p><p><font face=\"Arial\">* Có miệng&nbsp;</font></p><p><font face=\"Arial\">* Mở mắt</font></p><p><font face=\"Arial\">Khi thoả tất cả điều kiện hiện nút chụp hình</font></p><p><font face=\"Arial\">* Chú ý: phải có option đóng mở tính năng kiểm tra khuông mặt, camera này sử dụng ở vị trí chấm công và tất cả các vị trí khác trên app</font></p><p><font face=\"Arial\"><b>Sử dụng mlk đang có trong app</b></font></p>",
+            "description": "<font face=\"Arial\">* Phát triển tính năng detect khuôn mặt tiền chụp ảnh</font><p><font face=\"Arial\">- Phát hiện khuông mặt, vẽ khung phát hiện khuông mặt khi camera preview</font></p><p><font face=\"Arial\">- Tạo option kiểm tra khuông mặt hợp lệ ví dụ:</font></p><p><font face=\"Arial\">* Có khuông mặt</font></p><p><font face=\"Arial\">* Có miệng&nbsp;</font></p><p><font face=\"Arial\">* Mở mắt</font></p><p><font face=\"Arial\">Khi thoả tất cả điều kiện hiện nút chụp hình</font></p><p><font face=\"Arial\">* Chú ý: phải có option đóng mở tính năng kiểm tra khuông mặt, camera này sử dụng ở vị trí chấm công và tất cả các vị trí khác trên app</font></p><p><font face=\"Arial\"><b>Sử dụng mlk đang có trong app</b></font></p>",
             "start_date": "2024-04-08",
             "end_date": "2024-04-12",
             "prioritize": 3,
@@ -100,7 +100,7 @@
             "end_date": "2024-04-05",
             "prioritize": 5,
             "main_day": 1,
-            "tag": ", APP,",
+            "tag": "Test, APP,",
             "status": "ToDo",
             "testing_status": null,
             "created_date": "2024-04-05 10:23:35",
