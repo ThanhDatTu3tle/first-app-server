@@ -1,0 +1,46 @@
+{
+    "chartsList": [
+        {
+            "id": 1,
+            "name": "Tổng số cửa hàng đã khảo sát",
+            "data": [
+                {
+                    "name": "Số cửa hàng - TC",
+                    "color": "#22C55E",
+                    "y": 79.1
+                },
+                {
+                    "name": "Số cửa hàng - KTC",
+                    "color": "#FF3D32",
+                    "y": 70.9
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tổng số cửa hàng KTC",
+            "data": [
+                {
+                    "name": "Không phải là CH FMCG 2 BC",
+                    "color": "#7CB5EC",
+                    "y": 6.1
+                },
+                {
+                    "name": "Không phải tham gia trưng bày 23 BC",
+                    "color": "#434348",
+                    "y": 69.7
+                },
+                {
+                    "name": "Cửa hàng không hợp tác 3BC",
+                    "color": "#90ED7D",
+                    "y": 9.1
+                },
+                {
+                    "name": "Đóng cửa 5 BC",
+                    "color": "#F7A35C",
+                    "y": 15.2
+                }
+            ]
+        }
+    ]
+}
